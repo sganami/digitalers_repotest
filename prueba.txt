@@ -1,2 +1,2 @@
-Este texto es para probar subir al servidor. 
+Un texto es para probar subir al servidor. 
 Si, funciona.
