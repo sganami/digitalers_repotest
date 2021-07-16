@@ -1,2 +1,2 @@
-Un texto es para probar subir al servidor. 
-Si, funciona.
+Quiero aprender a usar Git pero es muy confuso.
+Debo practicar
